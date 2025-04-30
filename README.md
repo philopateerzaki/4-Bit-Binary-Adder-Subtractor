@@ -45,4 +45,4 @@ This project demonstrates a 4-bit binary adder/subtractor circuit implemented us
 See the full report for the **Proteus schematic**, **block diagram**, and **circuit simulation screenshots**.
 
 ## 📄 Report
-[Download Full Report (PDF)](insert_your_drive_or_github_link_here)
+[Download Full Report (PDF)]([insert_your_drive_or_github_link_here](https://drive.google.com/file/d/1aDD0h7KmH-D-TqBQrEIYpxuoDTgyhna6/view?usp=drive_link))
