@@ -46,3 +46,7 @@ See the full report for the **Proteus schematic**, **block diagram**, and **circ
 
 ## 📄 Report
 [Download Full Report (PDF)](https://drive.google.com/file/d/1aDD0h7KmH-D-TqBQrEIYpxuoDTgyhna6/view?usp=drive_link)
+
+
+
+> 🎓 If you liked this project, feel free to ⭐ star it or fork it!
